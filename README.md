@@ -1,6 +1,6 @@
 # 🐍 Python Language Course – YouTube Playlist Code Repository
 
-Welcome to the official code repository for my **Python Programming Course** on [YouTube](https://www.youtube.com/)! This repo contains **complete Python code examples**, practice problems, and solutions based on the video tutorials. Whether you're a beginner or just brushing up your skills, this is the best place to **learn Python step-by-step with real code**.
+Welcome to the official code repository for my **Python Programming Course** on [Coding Solution Point](https://www.youtube.com/)! This repo contains **complete Python code examples**, practice problems, and solutions based on the video tutorials. Whether you're a beginner or just brushing up your skills, this is the best place to **learn Python step-by-step with real code**.
 
 ---
 
